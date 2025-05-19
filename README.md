@@ -1,12 +1,1 @@
 # chuuxyz.github.io
-<!DOCTYPE html>
-<html>
-	<head>
-		<meta charset="utf-8">
-		<title>超链接</title>
-	</head>
-	<body>
-		<h2>to luckyx1_</h2>
-		<a href="01.html">enter</a>
-	</body>
-</html>
